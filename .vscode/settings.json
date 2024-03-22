@@ -1,0 +1,6 @@
+{
+    //"prettier.configPath": "~/Downloads/next-tutorial/nextjs-dashboard/node_modules/prettier"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    
+}
+
